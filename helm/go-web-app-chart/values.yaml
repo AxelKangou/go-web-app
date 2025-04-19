@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: axelkangou4791/go-web-app1
   pullPolicy: IfNotPresent
-  tag: 14550431952
+  tag: 14550806330
 
 ingress:
   enabled: false
